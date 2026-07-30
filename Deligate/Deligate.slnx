@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Deligate.csproj" />
+  <Project Path="../Polymorphism/Compile Time Polymorphism/Compile Time Polymorphism.csproj" Id="f6863e9c-0367-43f7-93e5-f5d5ac1f096e" />
+  <Project Path="../Polymorphism/Run Time Polymorphism/Run Time Polymorphism.csproj" Id="169bcb92-39af-4224-8d81-0a658b9fdd76" />
+  <Project Path="Deligate.csproj" Id="c6d2e9c4-f6bd-4881-b785-59c47890562c" />
 </Solution>
