@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../Patient Billing System/Patient Billing System..csproj" />
   <Project Path="Ride Sharing Management System.csproj" />
 </Solution>
